@@ -1,0 +1,109 @@
+[
+    {
+        "id":1,
+        "name":"Leo Messi",
+        "goals":758,
+        "image":"/images/p1.jpg",
+        "club":"Paris saint-germain F.C",
+        "nationality":"argentina"
+    },
+    {
+        "id":2,
+        "name":"cristiano Ronaldo",
+        "goals":813,
+        "image":"/images/p2.jpg",
+        "club":"Manchester United F.C",
+        "nationality":"portugal"
+    },
+    {
+        "id":3,
+        "name":"Neymar jr",
+        "goals":410,
+        "image":"/images/p3.jpg",
+        "club":"Paris saint-germain F.C",
+        "nationality":"Brazil"
+    },
+    {
+        "id":4,
+        "name":"Luis suarez",
+        "goals":452,
+        "image":"/images/p4.jpg",
+        "club":"Atletico madrid",
+        "nationality":"Uruguay"
+    },
+    {
+        "id":5,
+        "name":"Robert Lewandowski",
+        "goals":539,
+        "image":"/images/p6.jpg",
+        "club":"Barcelona",
+        "nationality":"poland"
+    },
+
+    {
+        "id":6,
+        "name":"Zaltan ibrahimovic",
+        "goals":510,
+        "image":"/images/p5.jpg",
+        "club":"AC milan",
+        "nationality":"Sweden"
+    },
+    {
+        "id":7,
+        "name":"Karim Benzema",
+        "goals":404,
+        "image":"/images/p7.jpg",
+        "club":"Real madrid",
+        "nationality":"France"
+    },
+    {
+        "id":8,
+        "name":"Kylian Mbappe",
+        "goals":198,
+        "image":"/images/p8.jpg",
+        "club":"Paris saint-germain F.C",
+        "nationality":"France"
+    },
+    {
+        "id":9,
+        "name":"Angel Di meria",
+        "goals":152,
+        "image":"/images/p9.jpg",
+        "club":"Paris saint-germain F.C",
+        "nationality":"argentina"
+    },
+    {
+        "id":10,
+        "name":"Erling Haaland",
+        "goals":154,
+        "image":"/images/p10.jpg",
+        "club":"Man city",
+        "nationality":"Borussia"
+    },
+
+    {
+        "id":11,
+        "name":"Luca Modric",
+        "goals":92,
+        "image":"/images/p11.jpg",
+        "club":"Real Madrid",
+        "nationality":"Croatia"
+    },
+    {
+        "id":12,
+        "name":"Pierre-Emerick Aubameyang",
+        "goals":301,
+        "image":"/images/p12.jpg",
+        "club":"Barcelona",
+        "nationality":"France"
+    },
+    {
+        "id":13,
+        "name":"Memphis Depay",
+        "goals":146,
+        "image":"/images/p13.jpg",
+        "club":"Barcelona F.C",
+        "nationality":"Netherlans"
+    }
+  
+]
