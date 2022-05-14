@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# this application is caontain the super star players on football and the upcoming matches from 14/05/2022 to 16/05/2022 and current famous leagues states.
+
+#description : this application contains simple feilds only
+#1. Player - which contains players (only few beacues lake of sources).
+#2. Matches - which contains upcoming matches for two day from 14/05/2022.
+#3. Leagues - which contains current(14/05/2022) league championship states.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
