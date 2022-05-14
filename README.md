@@ -1,8 +1,11 @@
-# this application is caontain the super star players on football and the upcoming matches from 14/05/2022 to 16/05/2022 and current famous leagues states.
+# This application based on football created using React framework, this is a small scale project for a practice purpose.
 
 #description : this application contains simple feilds only
+
 #1. Player - which contains players (only few beacues lake of sources).
+
 #2. Matches - which contains upcoming matches for two day from 14/05/2022.
+
 #3. Leagues - which contains current(14/05/2022) league championship states.
 
 
