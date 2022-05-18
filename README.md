@@ -2,7 +2,7 @@
 
 #description : this application contains simple feilds only
 
-#1. Player - which contains players (only few beacues lake of sources).
+#1. Player - which contains players (only few because of lake of sources).
 
 #2. Matches - which contains upcoming matches for two day from 14/05/2022.
 
